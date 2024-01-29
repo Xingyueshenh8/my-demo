@@ -1,3 +1,2 @@
-spring:
- application:
-  name: application
+info:
+ profile: test3
